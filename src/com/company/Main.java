@@ -219,7 +219,7 @@ public class Main {
     }
 
     /**
-     * Create a demo database and insert, query, and update a few rows using a subclassed Table object.
+     * Create a demo database and insert/selectt a few rows using a subclassed Table object.
      * @param args Should probably not have command line arguments, given the purpose of this project.
      */
     public static void main(String[] args) {
